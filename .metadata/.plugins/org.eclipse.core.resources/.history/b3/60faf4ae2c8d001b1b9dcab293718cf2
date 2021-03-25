@@ -1,3 +1,4 @@
+
 server:
   port: 8081
   
@@ -7,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/jpierreluis/microseervice.git
-          searchPaths: config-data
+          searchPath: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
   security:
