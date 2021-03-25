@@ -1,0 +1,5 @@
+package academy.digitalab.costumer.service.controller;
+
+public class CustomerController {
+
+}

@@ -1,0 +1,10 @@
+package academy.digitalab.costumer.repository.entity;
+@Data
+@Entity
+@Table(name = "tbl_regions")
+public class Region {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	private String name;
+}

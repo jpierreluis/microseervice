@@ -1,0 +1,5 @@
+package academy.digitalab.costumer.repository.entity;
+
+public class Region {
+
+}

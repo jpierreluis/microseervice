@@ -1,0 +1,8 @@
+package academy.digitalab.costumer.service.controller;
+
+@Slf4j
+@RestController
+@RequestMapping("/customers")
+public class CustomerController {
+
+}
