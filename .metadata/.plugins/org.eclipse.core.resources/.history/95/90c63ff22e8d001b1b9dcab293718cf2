@@ -1,12 +1,12 @@
 server:
   port: 8081
-
+  
 spring:
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/jpierreluis/microseervice.git
+          uri: https://github.com/jpierreluis/ms-course-youtube.git
           searchPaths: config-data
           username: jpierreluis
           password: jeanp190
